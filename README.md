@@ -1,9 +1,12 @@
- Tecnologias usadas..
- Esqueleto do projeto = Html.
- Estilos do projeto = TailwindCss.
- Interação = Javascript 
 
-Projeto baseado em layouts de paginas de aluguéis e compra de imóveis. 
-Projeto já com responsividade check . 📲📌✔️
- 
-Espero que gostem!! 💪🏼
+Projeto NeonLeaf
+
+Trata-se de uma aplicação web criada utilizando JavaScript, HTML e o framework  TailwindCSS. O projeto simula uma página de apresentação para uma empresa fictícia chamada "NeonLeaf", que inclui um pequeno catálogo de imóveis para locação ou compra , informações e contato.
+
+Tecnologias Utilizadas 
+
+* Javascript 
+* HTML
+* TailwindCSS
+
+Deploy - https://neon-leaf.vercel.app/
